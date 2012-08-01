@@ -1,0 +1,151 @@
+/*
+ *  This file is part of Aion Extreme Emulator <aion-core.net>.
+ *
+ *  Aion Extreme Emulator is a free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  Aion Extreme Emulator is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with Aion Extreme Emulator. If not, see <http://www.gnu.org/licenses/>.
+ */
+package quest.verteron;
+
+import gameserver.model.gameobjects.Npc;
+import gameserver.model.gameobjects.player.Player;
+import gameserver.questEngine.handlers.QuestHandler;
+import gameserver.questEngine.model.QuestDialog;
+import gameserver.questEngine.model.QuestEnv;
+import gameserver.questEngine.model.QuestState;
+import gameserver.questEngine.model.QuestStatus;
+import gameserver.world.zone.ZoneName;
+
+/**
+ * @author Mr. Poke
+ * @modified Dune11
+ * @reworked vlog
+ */
+public class _1023ANestofLepharists extends QuestHandler {
+
+	private final static int questId = 1023;
+
+	public _1023ANestofLepharists() {
+		super(questId);
+	}
+
+	@Override
+	public void register() {
+		qe.registerQuestNpc(203098).addOnTalkEvent(questId);
+		qe.registerQuestNpc(203183).addOnTalkEvent(questId);
+		qe.registerOnEnterZone(ZoneName.MYSTERIOUS_SHIPWRECK_210030000, questId);
+		qe.registerOnEnterZoneMissionEnd(questId);
+		qe.registerOnLevelUp(questId);
+	}
+
+	@Override
+	public boolean onZoneMissionEndEvent(QuestEnv env) {
+		return defaultOnZoneMissionEndEvent(env, 1013);
+	}
+
+	@Override
+	public boolean onLvlUpEvent(QuestEnv env) {
+		int[] quests = { 1130, 1013 };
+		return defaultOnLvlUpEvent(env, quests, true);
+	}
+
+	@Override
+	public boolean onDialogEvent(QuestEnv env) {
+		Player player = env.getPlayer();
+		QuestState qs = player.getQuestStateList().getQuestState(questId);
+		if (qs == null)
+			return false;
+
+		int var = qs.getQuestVarById(0);
+		int targetId = 0;
+		if (env.getVisibleObject() instanceof Npc)
+			targetId = ((Npc) env.getVisibleObject()).getNpcId();
+
+		if (qs.getStatus() == QuestStatus.START) {
+			if (targetId == 203098) // Spatalos
+			{
+				switch (env.getDialog()) {
+					case START_DIALOG:
+						if (var == 0)
+							return sendQuestDialog(env, 1011);
+					case SELECT_ACTION_1012:
+						return sendQuestDialog(env, 1012);
+					case SELECT_ACTION_1013:
+						return sendQuestDialog(env, 1013);
+					case STEP_TO_1:
+						return defaultCloseDialog(env, 0, 1); // 1
+				}
+			}
+			else if (targetId == 203183) // Khidia
+			{
+				switch (env.getDialog()) {
+					case START_DIALOG:
+						if (var == 1)
+							return sendQuestDialog(env, 1352);
+						else if (var == 3)
+							return sendQuestDialog(env, 1693);
+						else if (var == 4)
+							return sendQuestDialog(env, 2034);
+					case SELECT_ACTION_1353:
+						return sendQuestDialog(env, 1353);
+					case STEP_TO_2:
+						if (var == 1) {
+							playQuestMovie(env, 30);
+							return defaultCloseDialog(env, 1, 2); // 2
+						}
+					case SELECT_ACTION_1694:
+						return sendQuestDialog(env, 1694);
+					case STEP_TO_3:
+						if (var == 3)
+							return defaultCloseDialog(env, 3, 4); // 4
+					case CHECK_COLLECTED_ITEMS:
+						if (var == 4)
+							return checkQuestItems(env, 4, 4, false, 2120, 2035);
+					case FINISH_DIALOG:
+						return sendQuestDialog(env, 10);
+					case STEP_TO_4:
+						return defaultCloseDialog(env, 4, 5, true, false); // 5 + reward
+				}
+			}
+		}
+		else if (qs.getStatus() == QuestStatus.REWARD) {
+			if (targetId == 203098) // Spatalos
+			{
+				if (env.getDialog() == QuestDialog.USE_OBJECT)
+					return sendQuestDialog(env, 2375);
+				else
+					return sendQuestEndDialog(env);
+			}
+		}
+		return false;
+	}
+
+	@Override
+	public boolean onEnterZoneEvent(QuestEnv env, ZoneName zoneName) {
+		if (zoneName != ZoneName.MYSTERIOUS_SHIPWRECK_210030000)
+			return false;
+		final Player player = env.getPlayer();
+		if (player == null)
+			return false;
+		final QuestState qs = player.getQuestStateList().getQuestState(questId);
+		if (qs == null || qs.getQuestVars().getQuestVars() != 2)
+			return false;
+
+		if (qs.getQuestVars().getVarById(0) == 2) {
+			playQuestMovie(env, 23);
+			qs.setQuestVarById(0, 3); // 3
+			updateQuestStatus(env);
+			return true;
+		}
+		return false;
+	}
+}

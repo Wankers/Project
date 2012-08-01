@@ -1,0 +1,6 @@
+Run this from command line (you need external maven, not Eclipse plugin):
+
+mvn install:install-file -Dinternal -Dfile=path_to_AL_source/AL-Commons/libs/javac-1.6.jar -DgroupId=local.com.sun.tools -DartifactId=javac -Dversion=1.6 -Dpackaging=jar
+
+If running from /lib folder:
+mvn install:install-file -Dinternal -Dfile=javac-1.6.jar -DgroupId=local.com.sun.tools -DartifactId=javac -Dversion=1.6 -Dpackaging=jar

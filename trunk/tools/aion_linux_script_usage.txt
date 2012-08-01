@@ -1,0 +1,21 @@
+1) Copy aion file into folder you would like to run script from.
+2) Set path to your server folder in the script.
+
+example edit:
+# Path to main Aion folder WITHOUT a trailing slash
+RUNPATH="/home/server/server_2.5"
+
+Note: Edit other parameters at yoru won risk to breaking the script. Tested with current trunk. 7/29/11
+
+3) Make the script executable, for all accounts use: chmod 777 aion
+ 
+Usage: (Just type script name for possible parameters.)
+[user@aion_server ~]$ ./aion
+Usage: ./aion (start|stop|stop-login|stop-chat|stop-game|start-login|start-chat|start-game|status|help)
+
+To start all servers:
+./aion start
+etc...
+
+It's self explanatory.
+Note: This is for linux only.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+	<!--
+		[BEGIN] SUMMARY
+			3721 [SCRIPT] Disarm the Chantra Dredgion
+			3722 [SCRIPT] My New Toy
+			3723 [TODO] Obtain the Balaur Supplies
+			3724 [XML] Dredgion Blues
+			3725 [SCRIPT] My Lucky Number
+			4721 [SCRIPT] Rise of Chantra Dredgion
+			4722 [SCRIPT] New Weapon Test
+			4723 [TODO] Seize the Balaur Supplies
+			4724 [TODO] Balaur Agent Assassination
+			4725 [SCRIPT] Ceaseless Attack
+		[END] SUMMARY
+	-->
+	<!-- REPORTING QUESTS -->
+	<!-- COLLECTING QUESTS -->
+	<!-- HUNTING QUESTS -->
+</quest_scripts>

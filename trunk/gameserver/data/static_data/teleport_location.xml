@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teleport_location xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="teleport_location.xsd">
+	<teleloc_template loc_id="1" mapid="110010000" name="Sanctum" posX="1313.25" posY="1512.011" posZ="568.107" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="2" mapid="110010000" name="Sanctum" posX="1313.25" posY="1512.011" posZ="568.107" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="3" mapid="210010000" name="Poeta" posX="805.9061" posY="1242.6946" posZ="118.75" heading="100"/><!-- teleport -->
+	<teleloc_template loc_id="4" mapid="210030000" name="Verteron" posX="1640.76" posY="1500.32" posZ="119.70999" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="5" mapid="210020000" name="Eltnen" posX="344.48312" posY="2723.4956" posZ="263.88733" heading="45"/><!-- teleport -->
+	<teleloc_template loc_id="6" mapid="210040000" name="Heiron" posX="2542.2327" posY="339.2828" posZ="411.66394" heading="36"/><!-- teleport -->
+	<teleloc_template loc_id="7" mapid="120010000" name="Pandaemonium" posX="1685.7" posY="1400.5" posZ="195.48618" heading="60"/><!-- teleport -->
+	<teleloc_template loc_id="8" mapid="220010000" name="Ishalgen" posX="526.66" posY="2449.66" posZ="281.5926" heading="106"/><!-- teleport -->
+	<teleloc_template loc_id="9" mapid="220030000" name="Altgard" posX="1752.5322" posY="1806.6096" posZ="254.66133" heading="60"/><!-- teleport -->
+	<teleloc_template loc_id="10" mapid="220020000" name="Morheim" posX="309.53" posY="2271.51" posZ="449.41266" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="11" mapid="220040000" name="Beluslan" posX="398.3" posY="400.8" posZ="222.79721" heading="23"/><!-- teleport -->
+	<teleloc_template loc_id="12" mapid="210010000" name="Akarios Village"/><!-- flying -->
+	<teleloc_template loc_id="13" mapid="210010000" name="Melponeh's Campsite"/><!-- flying -->
+	<teleloc_template loc_id="14" mapid="210030000" name="Verteron Citadel"/><!-- flying -->
+	<teleloc_template loc_id="15" mapid="210030000" name="Pilgrims Respite"/><!-- flying -->
+	<teleloc_template loc_id="16" mapid="210030000" name="Verteron Observatory"/><!-- flying -->
+	<teleloc_template loc_id="17" mapid="220010000" name="Aldelle Village"/><!-- flying -->
+	<teleloc_template loc_id="18" mapid="220010000" name="Anturoon Crossing"/><!-- flying -->
+	<teleloc_template loc_id="19" mapid="220030000" name="Altgard Fortress"/><!-- flying -->
+	<teleloc_template loc_id="20" mapid="220030000" name="Trader's Berth"/><!-- flying -->
+	<teleloc_template loc_id="21" mapid="210020000" name="Eltnen Fortress"/><!-- flying -->
+	<teleloc_template loc_id="22" mapid="210020000" name="Golden Bough Garrison"/><!-- flying -->
+	<teleloc_template loc_id="23" mapid="210020000" name="Agairon Village"/><!-- flying -->
+	<teleloc_template loc_id="24" mapid="110010000" name="Elyos Square" posX="1458.6332" posY="1450.5676" posZ="572.87573" heading="15"/><!-- teleport -->
+	<teleloc_template loc_id="25" mapid="110010000" name="Divine Road" posX="1930.9808" posY="1514.3209" posZ="590.01074" heading="60"/><!-- teleport -->
+	<teleloc_template loc_id="28" mapid="210040000" name="New Heiron Gate"/><!-- flying -->
+	<teleloc_template loc_id="29" mapid="210040000" name="Heiron Observatory"/><!-- flying -->
+	<teleloc_template loc_id="30" mapid="210040000" name="Arbolu's Haven"/><!-- flying -->
+	<teleloc_template loc_id="31" mapid="210040000" name="Jeiaparan Village"/><!-- flying -->
+	<teleloc_template loc_id="32" mapid="220030000" name="Basfelt Village"/><!-- flying -->
+	<teleloc_template loc_id="33" mapid="120010000" name="Vifrost Bridge" posX="1601.8434" posY="1412.9706" posZ="193.1286" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="34" mapid="120010000" name="Prosperity Road" posX="1034.8004" posY="1473.1919" posZ="213.4775" heading="105"/><!-- teleport -->
+	<teleloc_template loc_id="35" mapid="400010000" name="Teminon Landing" posX="2865.86" posY="1036.57" posZ="1528.12" heading="44"/><!-- teleport -->
+	<teleloc_template loc_id="36" mapid="400010000" name="Siel's Western Fortress" posX="2985.3564" posY="2595.3398" posZ="1489.0905" heading="33"/><!-- teleport -->
+	<teleloc_template loc_id="37" mapid="400010000" name="Siel's Eastern Fortress" posX="2656.2722" posY="3063.4211" posZ="1483.1167" heading="33"/><!-- teleport -->
+	<teleloc_template loc_id="38" mapid="400010000" name="Primum Landing" posX="1078.71" posY="2838.54" posZ="1636.58" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="39" mapid="400010000" name="Sulfur Archipelago" posX="1345.1719" posY="1190.9126" posZ="1514.6681" heading="41"/><!-- teleport -->
+	<teleloc_template loc_id="40" mapid="400010000" name="Eastern Shard of Latesran" posX="1642" posY="3042" posZ="1669" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="41" mapid="400010000" name="Eastern Shard of Latesran"/><!-- flying -->
+	<teleloc_template loc_id="42" mapid="400010000" name="Western Shard of Latesran" posX="2098" posY="754" posZ="1569" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="43" mapid="400010000" name="Western Shard of Latesran"/><!-- flying -->
+	<teleloc_template loc_id="44" mapid="400010000" name="Roah Fortress" posX="2711.9102" posY="774.9118" posZ="2872.3818" heading="93"/><!-- teleport -->
+	<teleloc_template loc_id="45" mapid="400010000" name="Krotan Refuge" posX="2033.38" posY="1294.35" posZ="2963.57" heading="60"/><!-- teleport -->
+	<teleloc_template loc_id="46" mapid="400010000" name="Kysis Fortress" posX="2533.7102" posY="2090.47" posZ="3049.9705" heading="91"/><!-- teleport -->
+	<teleloc_template loc_id="47" mapid="400010000" name="Miren Fortress" posX="1792.247" posY="2315.0828" posZ="2949.6829" heading="7"/><!-- teleport -->
+	<teleloc_template loc_id="48" mapid="400010000" name="Asteria Fortress" posX="717.2298" posY="3002.2446" posZ="2893.0178" heading="16"/><!-- teleport -->
+	<teleloc_template loc_id="49" mapid="400010000" name="Divine Fortress" posX="2125.776" posY="1913.0077" posZ="2322.0728" heading="72"/><!-- teleport -->
+	<teleloc_template loc_id="50" mapid="400010000" name="Eastern Shard of Latesran" posX="1644" posY="2881" posZ="1667" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="51" mapid="400010000" name="Eastern Shard of Latesran"/><!-- flying -->
+	<teleloc_template loc_id="52" mapid="400010000" name="Western Shard of Latesran" posX="2100" posY="593" posZ="1567" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="53" mapid="400010000" name="Western Shard of Latesran"/><!-- flying -->
+	<teleloc_template loc_id="54" mapid="400010000" name="Siel's Western Fortress" posX="2985.3564" posY="2595.3398" posZ="1489.0905" heading="33"/><!-- teleport -->
+	<teleloc_template loc_id="55" mapid="400010000" name="Siel's Eastern Fortress" posX="2656.2722" posY="3063.4211" posZ="1483.1167" heading="33"/><!-- teleport -->
+	<teleloc_template loc_id="56" mapid="400010000" name="Sulfur Archipelago" posX="1345.1719" posY="1190.9126" posZ="1514.6681" heading="41"/><!-- teleport -->
+	<teleloc_template loc_id="57" mapid="400010000" name="Krotan Refuge" posX="2033.38" posY="1294.35" posZ="2963.57" heading="60"/><!-- teleport -->
+	<teleloc_template loc_id="58" mapid="400010000" name="Kysis Fortress" posX="2533.7102" posY="2090.47" posZ="3049.9705" heading="91"/><!-- teleport -->
+	<teleloc_template loc_id="59" mapid="400010000" name="Miren Fortress" posX="1792.247" posY="2315.0828" posZ="2949.6829" heading="7"/><!-- teleport -->
+	<teleloc_template loc_id="60" mapid="400010000" name="Asteria Fortress" posX="715.97736" posY="2999.419" posZ="2893.0176" heading="15"/><!-- teleport -->
+	<teleloc_template loc_id="61" mapid="400010000" name="Divine Fortress" posX="2125.776" posY="1913.0077" posZ="2322.0728" heading="72"/><!-- teleport -->
+	<teleloc_template loc_id="62" mapid="400010000" name="Roah Fortress" posX="2711.9102" posY="774.9118" posZ="2872.3818" heading="93"/><!-- teleport -->
+	<teleloc_template loc_id="63" mapid="220020000" name="Morheim Ice Fortress"/><!-- flying -->
+	<teleloc_template loc_id="64" mapid="220020000" name="Desert Garrison"/><!-- flying -->
+	<teleloc_template loc_id="65" mapid="220020000" name="Alsig Village"/><!-- flying -->
+	<teleloc_template loc_id="72" mapid="400010000" name="Krotan Refuge Area" posX="2033.3788" posY="1294.3495" posZ="2963.5703" heading="60"/><!-- teleport -->
+	<teleloc_template loc_id="73" mapid="400010000" name="Kysis Fortress Area" posX="2533.71" posY="2090.47" posZ="3049.97" heading="91"/><!-- teleport -->
+	<teleloc_template loc_id="74" mapid="400010000" name="Miren Fortress Area" posX="1789.7555" posY="2314.2678" posZ="2949.6802" heading="7"/><!-- teleport -->
+	<teleloc_template loc_id="75" mapid="400010000" name="Krotan Refuge Area" posX="2033.3788" posY="1294.3495" posZ="2963.5703" heading="60"/><!-- teleport -->
+	<teleloc_template loc_id="76" mapid="400010000" name="Kysis Fortress Area" posX="2533.71" posY="2090.47" posZ="3049.97" heading="91"/><!-- teleport -->
+	<teleloc_template loc_id="77" mapid="400010000" name="Miren Fortress Area" posX="1789.7555" posY="2314.2678" posZ="2949.6802" heading="7"/><!-- teleport -->
+	<teleloc_template loc_id="78" mapid="220040000" name="Beluslan Fortress"/><!-- flying -->
+	<teleloc_template loc_id="79" mapid="220040000" name="Besfer Refugee Camp"/><!-- flying -->
+	<teleloc_template loc_id="80" mapid="220040000" name="Red Mane Cavern"/><!-- flying -->
+	<teleloc_template loc_id="81" mapid="210060000" name="Theobomos" posX="1396.1299" posY="1559.8954" posZ="30.875" heading="105"/><!-- teleport -->
+	<teleloc_template loc_id="82" mapid="220050000" name="Brusthonin" posX="2917.251" posY="2417.4087" posZ="15.24525" heading="23"/><!-- teleport -->
+	<teleloc_template loc_id="83" mapid="210060000" name="Meniherk Excavation Camp"/><!-- flying -->
+	<teleloc_template loc_id="84" mapid="210060000" name="Observatory Village"/><!-- flying -->
+	<teleloc_template loc_id="85" mapid="210060000" name="Jamanok Inn"/><!-- flying -->
+	<teleloc_template loc_id="86" mapid="220050000" name="Settlers Campsite"/><!-- flying -->
+	<teleloc_template loc_id="87" mapid="220050000" name="Baltasar Hill Village"/><!-- flying -->
+	<teleloc_template loc_id="88" mapid="220050000" name="BuBu Village"/><!-- flying -->
+	<teleloc_template loc_id="90" mapid="210050000" name="Temple of Scales" posX="1803.4083" posY="2200.432" posZ="325.58817" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="91" mapid="210050000" name="Altar of Avarice" posX="918.5443" posY="1903.9717" posZ="338.01215" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="93" mapid="220070000" name="Vorgaltem Citadel" posX="1134.0906" posY="859.5303" posZ="310.71643" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="94" mapid="220070000" name="Crimson Temple" posX="1817.5825" posY="1097.0817" posZ="327.5661" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="95" mapid="110010000" name="Outer Dock" posX="1743.5588" posY="2059.158" posZ="518.0106" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="96" mapid="210050000" name="Outer Port of Inggison" posX="1324" posY="261" posZ="591" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="97" mapid="120010000" name="Pandaemonium Airship Dock" posX="943.9" posY="1126.1" posZ="206.9" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="98" mapid="220070000" name="Gelkmaros Airship Dock" posX="1771" posY="2892" posZ="548" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="99" mapid="210050000" name="Inggison Illusion Fortress"/><!-- flying -->
+	<teleloc_template loc_id="100" mapid="210050000" name="Soteria Sanctuary"/><!-- flying -->
+	<teleloc_template loc_id="101" mapid="210050000" name="Undirborg Observation Post"/><!-- flying -->
+	<teleloc_template loc_id="102" mapid="220070000" name="Gelkmaros Fortress"/><!-- flying -->
+	<teleloc_template loc_id="103" mapid="220070000" name="Rhonnam Refugee Village"/><!-- flying -->
+	<teleloc_template loc_id="104" mapid="220070000" name="Subterranea Observation Post"/><!-- flying -->
+	<teleloc_template loc_id="105" mapid="110010000" name="Outer Dock" posX="1817.1605" posY="2154.2178" posZ="527.9301" heading="83"/><!-- teleport -->
+	<teleloc_template loc_id="106" mapid="120010000" name="Crandale District" posX="1175.7998" posY="1167.0049" posZ="207.97896" heading="20"/><!-- teleport -->
+	<teleloc_template loc_id="107" mapid="110010000" name="Sanctum Gate" posX="1366.8" posY="1539.5" posZ="569.0382" heading="96"/><!-- teleport -->
+	<teleloc_template loc_id="108" mapid="110020000" name="Seraphim Gate" posX="2155.6" posY="1566.9" posZ="1204.897" heading="71"/><!-- teleport -->
+	<teleloc_template loc_id="109" mapid="120010000" name="Pandaemonium Entrance" posX="1604.9" posY="1389.4" posZ="193.12852" heading="44"/><!-- teleport -->
+	<teleloc_template loc_id="110" mapid="120020000" name="Shedim Gate" posX="1557.2" posY="1429.4" posZ="265.68" heading="33"/><!-- teleport -->
+	<teleloc_template loc_id="111" mapid="210030000" name="Tolbas Village"/><!-- flying -->
+	<teleloc_template loc_id="112" mapid="210030000" name="Ardus Shrine"/><!-- flying -->
+	<teleloc_template loc_id="113" mapid="210020000" name="Novan's Crossing"/><!-- flying -->
+	<teleloc_template loc_id="114" mapid="210020000" name="Eltnen Observatory"/><!-- flying -->
+	<teleloc_template loc_id="115" mapid="210020000" name="Kuriullu Outpost"/><!-- flying -->
+	<teleloc_template loc_id="116" mapid="210060000" name="Anangke Excavation Camp"/><!-- flying -->
+	<teleloc_template loc_id="117" mapid="210060000" name="Josnack's Vigil"/><!-- flying -->
+	<teleloc_template loc_id="118" mapid="210040000" name="Senemonea's Campsite"/><!-- flying -->
+	<teleloc_template loc_id="119" mapid="210040000" name="Kishar Observation Post"/><!-- flying -->
+	<teleloc_template loc_id="120" mapid="210040000" name="Changarnerk Campsite"/><!-- flying -->
+	<teleloc_template loc_id="121" mapid="220030000" name="Heart of Impetusium"/><!-- flying -->
+	<teleloc_template loc_id="122" mapid="220030000" name="Altgard Observatory"/><!-- flying -->
+	<teleloc_template loc_id="123" mapid="220020000" name="Kellan's Cabin"/><!-- flying -->
+	<teleloc_template loc_id="124" mapid="220020000" name="Slag Bulwark"/><!-- flying -->
+	<teleloc_template loc_id="125" mapid="220020000" name="Halabana Outpost"/><!-- flying -->
+	<teleloc_template loc_id="126" mapid="220020000" name="Morheim Observatory"/><!-- flying -->
+	<teleloc_template loc_id="127" mapid="220050000" name="Edge of Torment"/><!-- flying -->
+	<teleloc_template loc_id="128" mapid="220050000" name="Lollu Overlook"/><!-- flying -->
+	<teleloc_template loc_id="129" mapid="220040000" name="Kidorun's Campsite"/><!-- flying -->
+	<teleloc_template loc_id="130" mapid="220040000" name="Camp Kistenian"/><!-- flying -->
+	<teleloc_template loc_id="131" mapid="220040000" name="Hoarfrost Shelter"/><!-- flying -->
+	<teleloc_template loc_id="132" mapid="600020000" name="Kamar"/><!-- flying -->
+	<teleloc_template loc_id="133" mapid="600020000" name="Western Guardian's Seal"/><!-- flying -->
+	<teleloc_template loc_id="134" mapid="600020000" name="Eastern Guardian's Seal"/><!-- flying -->
+	<teleloc_template loc_id="135" mapid="600020000" name="Hushblade Garrison"/><!-- flying -->
+	<teleloc_template loc_id="136" mapid="600020000" name="Fatebound Garrison"/><!-- flying -->
+	<teleloc_template loc_id="137" mapid="600020000" name="Griffoen" posX="1213.1521" posY="1356.1478" posZ="612.4769" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="138" mapid="600020000" name="Habrok" posX="1529.3892" posY="1568.5856" posZ="611.9866" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="139" mapid="700010000" name="Oriel Plaza" posX="1256.5579" posY="1835.413" posZ="97.9553" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="140" mapid="700010000" name="Prosperity's Light Village" posX="684.4517" posY="2273.5066" posZ="162.25377" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="141" mapid="700010000" name="Goldendell Village" posX="233.61156" posY="2048.5042" posZ="121.73419" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="142" mapid="700010000" name="Glimmertree Village" posX="273.14465" posY="2624.7512" posZ="265.6051" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="143" mapid="700010000" name="Vibrant Garden Village" posX="985.51465" posY="2633.6445" posZ="106.58138" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="144" mapid="700010000" name="Sunset Coast Village" posX="691.9899" posY="1048.704" posZ="95.30991" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="145" mapid="700010000" name="Thorn Tree Village" posX="781.33936" posY="1531.6823" posZ="101.77079" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="146" mapid="700010000" name="Seapath Village" posX="400.07816" posY="1405.9005" posZ="85.68491" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="147" mapid="700010000" name="Brilliant Isle Village" posX="301.08173" posY="404.7607" posZ="128.10094" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="148" mapid="700010000" name="Palmcrest Village" posX="537.2632" posY="650.3559" posZ="85.73607" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="149" mapid="700010000" name="Silverspire Village" posX="707.0477" posY="344.22507" posZ="119.617386" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="150" mapid="700010000" name="Summerfield Village" posX="1247.5981" posY="1174.3341" posZ="102.30991" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="151" mapid="700010000" name="Sandbank Village" posX="1036.047" posY="824.2705" posZ="82.6958" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="152" mapid="700010000" name="Pearl Cove Village" posX="1269.5596" posY="529.774" posZ="110.45259" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="153" mapid="700010000" name="Rockroof Village" posX="2541.9072" posY="1636.9911" posZ="180.90013" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="154" mapid="700010000" name="Stonecrest Village" posX="2068.2617" posY="1307.8822" posZ="78.30991" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="155" mapid="700010000" name="Reedpond Village" posX="2029.3035" posY="1960.8531" posZ="81.18491" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="156" mapid="700010000" name="Peaks Crown Village" posX="2051.8562" posY="917.09314" posZ="85.554955" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="157" mapid="700010000" name="Elroco Hill Village" posX="2784.6687" posY="1092.8529" posZ="191.80992" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="158" mapid="700010000" name="Hillclimb Village" posX="2353.6277" posY="2193.8047" posZ="137.48112" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="159" mapid="700010000" name="Betua Glen Village" posX="1541.079" posY="2715.6384" posZ="85.18491" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="160" mapid="700010000" name="Millennium Tree Village" posX="1617.1471" posY="2255.1704" posZ="84.30991" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="161" mapid="700010000" name="Riverwell Village" posX="2143.704" posY="406.35718" posZ="85.30991" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="162" mapid="700010000" name="Misty Vista Village" posX="2020.2795" posY="2639.9597" posZ="156.80992" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="163" mapid="700010000" name="Hotsprings Village" posX="2569.007" posY="659.10864" posZ="137.68492" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="164" mapid="700010000" name="Mill Ridge Village" posX="2494.2754" posY="2606.5928" posZ="183.18492" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="165" mapid="710010000" name="Pernon Plaza" posX="1076.9694" posY="1536.6163" posZ="98.08641" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="166" mapid="710010000" name="Glory's Light Village" posX="915.78326" posY="938.6894" posZ="136.20749" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="167" mapid="710010000" name="Sunny Harbor Village" posX="1006.8007" posY="305.56506" posZ="73.57843" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="168" mapid="710010000" name="Silver Tree Village" posX="481.47885" posY="388.3648" posZ="200.70462" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="169" mapid="710010000" name="Golden Sunset Village" posX="350.85422" posY="1069.5037" posZ="167.81252" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="170" mapid="710010000" name="Spire Isle Village" posX="2206.036" posY="917.46844" posZ="78.271996" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="171" mapid="710010000" name="Morning Mist Village" posX="1670.7117" posY="926.49945" posZ="72.83199" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="172" mapid="710010000" name="Spring Hill Village" posX="1625.795" posY="397.07373" posZ="84.551994" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="173" mapid="710010000" name="Coast Road Village" posX="2160.871" posY="304.1554" posZ="76.79953" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="174" mapid="710010000" name="Azure Inlet Village" posX="2752.9817" posY="350.7929" posZ="76.922" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="175" mapid="710010000" name="Greenleaf Village" posX="1760.6151" posY="1494.5106" posZ="112.182" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="176" mapid="710010000" name="Mistcloak Village" posX="2294.0332" posY="1404.6498" posZ="78.782" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="177" mapid="710010000" name="Longhill Pass Village" posX="2732.594" posY="820.795" posZ="84.172" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="178" mapid="710010000" name="Spindletree Village" posX="2832.6567" posY="1367.0441" posZ="76.792" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="179" mapid="710010000" name="Zephyr Village" posX="1743.4388" posY="2647.5168" posZ="230.972" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="180" mapid="710010000" name="Verdant Ridge Village" posX="1150.8833" posY="2175.6636" posZ="189.31519" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="181" mapid="710010000" name="Spruce Ridge Village" posX="1631.1447" posY="2090.8787" posZ="223.0626" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="182" mapid="710010000" name="Aironroost Village" posX="2187.799" posY="2013.2501" posZ="238.972" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="183" mapid="710010000" name="Stonewall Village" posX="734.56757" posY="2079.56" posZ="166.59201" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="184" mapid="710010000" name="Brightleaf Village" posX="339.2777" posY="1801.9604" posZ="137.67479" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="185" mapid="710010000" name="Hallowed Falls Village" posX="2715.71" posY="2087.7058" posZ="341.44693" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="186" mapid="710010000" name="Foothill Basin Village" posX="273.86322" posY="2271.6172" posZ="197.34056" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="187" mapid="710010000" name="Bloomroad Village" posX="775.8424" posY="2703.5344" posZ="212.33916" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="188" mapid="710010000" name="Shepherd's Peak Village" posX="2424.668" posY="2552.2358" posZ="323.31445" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="189" mapid="710010000" name="Seven Peaks Village" posX="2771.5488" posY="2516.454" posZ="360.4443" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="190" mapid="710010000" name="Alpindell Village" posX="384.1676" posY="2667.0737" posZ="210.45473" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="191" mapid="700010000" name="Oriel" posX="1275.54" posY="1867.76" posZ="97.5" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="192" mapid="710010000" name="Pernon" posX="1045.0769" posY="1522.6863" posZ="97.88" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="193" mapid="600020000" name="Nalotia's Cabin"/><!-- flying -->
+	<teleloc_template loc_id="194" mapid="600030000" name="Rancora Fortress"/><!-- flying -->
+	<teleloc_template loc_id="195" mapid="600030000" name="Rancora Fortress"/><!-- flying -->
+	<teleloc_template loc_id="196" mapid="600030000" name="Notus Outpost"/><!-- flying -->
+	<teleloc_template loc_id="197" mapid="600030000" name="Cindercone Outpost"/><!-- flying -->
+	<teleloc_template loc_id="198" mapid="600030000" name="Petro Outpost"/><!-- flying -->
+	<teleloc_template loc_id="199" mapid="600030000" name="Gurrik Tree"/><!-- flying -->
+	<teleloc_template loc_id="200" mapid="600030000" name="Black Cloud Camp"/><!-- flying -->
+	<teleloc_template loc_id="201" mapid="600030000" name="Tiamaranta" posX="14" posY="1732" posZ="297" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="202" mapid="600030000" name="Tiamaranta" posX="14" posY="1732" posZ="297" heading="0"/><!-- teleport -->
+	<teleloc_template loc_id="203" mapid="600020000" name="Oriel"/><!-- flying -->
+	<teleloc_template loc_id="204" mapid="600020000" name="Pernon"/><!-- flying -->
+	<teleloc_template loc_id="205" mapid="600020000" name="Garldar Village"/><!-- flying -->
+	<teleloc_template loc_id="206" mapid="600020000" name="Elementis Forest Entrance"/><!-- flying -->
+	<teleloc_template loc_id="207" mapid="600020000" name="Jotun Research Expedition"/><!-- flying -->
+	<teleloc_template loc_id="208" mapid="600020000" name="Twisted Land Outpost"/><!-- flying -->
+</teleport_location>

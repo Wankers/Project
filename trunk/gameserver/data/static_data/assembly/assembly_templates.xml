@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<assembly_template id="1" itemid="186000018" parts_count="5" name="TODO" desc="1522533">
+		    <part id="188100001"/>
+		    <part id="188100002"/>
+		    <part id="188100003"/>
+		    <part id="188100004"/>
+		    <part id="188100005"/>
+	</assembly_template>
+	<assembly_template id="2" itemid="182213104" parts_count="2" name="TODO" desc="2273027">
+		    <part id="188100018"/>
+		    <part id="188100019"/>
+	</assembly_template>
+	<assembly_template id="3" itemid="182213105" parts_count="4" name="TODO" desc="2273047">
+		    <part id="188100020"/>
+		    <part id="188100021"/>
+		    <part id="188100022"/>
+		    <part id="188100023"/>
+	</assembly_template>
+	<assembly_template id="4" itemid="182213108" parts_count="4" name="TODO" desc="2273071">
+		    <part id="188100024"/>
+		    <part id="188100025"/>
+		    <part id="188100026"/>
+		    <part id="188100027"/>
+	</assembly_template>
+	<assembly_template id="5" itemid="170490010" parts_count="4" name="TODO" desc="1580949">
+		    <part id="188100006"/>
+		    <part id="188100007"/>
+		    <part id="188100008"/>
+		    <part id="188100009"/>
+	</assembly_template>
+	<assembly_template id="6" itemid="170020022" parts_count="4" name="TODO" desc="1582163">
+		    <part id="188100010"/>
+		    <part id="188100011"/>
+		    <part id="188100012"/>
+		    <part id="188100013"/>
+	</assembly_template>
+	<assembly_template id="7" itemid="170195082" parts_count="4" name="TODO" desc="1585587">
+		    <part id="188100014"/>
+		    <part id="188100015"/>
+		    <part id="188100016"/>
+		    <part id="188100017"/>
+	</assembly_template>
+	<assembly_template id="8" itemid="185000113" parts_count="3" name="TODO" desc="1587031">
+		    <part id="188100028"/>
+		    <part id="188100029"/>
+		    <part id="188100030"/>
+	</assembly_template>
+	<assembly_template id="9" itemid="170490001" parts_count="3" name="TODO" desc="1580931">
+		    <part id="188100031"/>
+		    <part id="188100032"/>
+		    <part id="188100033"/>
+	</assembly_template>
+	<assembly_template id="10" itemid="170490002" parts_count="3" name="TODO" desc="1580933">
+		    <part id="188100034"/>
+		    <part id="188100035"/>
+		    <part id="188100036"/>
+	</assembly_template>
+	<assembly_template id="11" itemid="170490003" parts_count="3" name="TODO" desc="1580935">
+		    <part id="188100037"/>
+		    <part id="188100038"/>
+		    <part id="188100039"/>
+	</assembly_template>
+	<assembly_template id="12" itemid="182213174" parts_count="3" name="TODO" desc="2273391">
+		    <part id="188100040"/>
+		    <part id="188100041"/>
+		    <part id="188100042"/>
+	</assembly_template>
+	<assembly_template id="13" itemid="182213177" parts_count="3" name="TODO" desc="2273425">
+		    <part id="188100043"/>
+		    <part id="188100044"/>
+		    <part id="188100045"/>
+	</assembly_template>
+	<assembly_template id="14" itemid="188051614" parts_count="4" name="TODO" desc="1592405">
+		    <part id="188100046"/>
+		    <part id="188100047"/>
+		    <part id="188100048"/>
+		    <part id="188100049"/>
+	</assembly_template>
+	<assembly_template id="15" itemid="188051615" parts_count="3" name="TODO" desc="1592407">
+		    <part id="188100050"/>
+		    <part id="188100051"/>
+		    <part id="188100052"/>
+	</assembly_template>
+	<assembly_template id="16" itemid="188051624" parts_count="2" name="TODO" desc="1592425">
+		    <part id="188100053"/>
+		    <part id="188100054"/>
+	</assembly_template>
+	<assembly_template id="17" itemid="188051697" parts_count="2" name="TODO" desc="2191533">
+		    <part id="188100055"/>
+		    <part id="188100056"/>
+	</assembly_template>
+	<assembly_template id="18" itemid="188051676" parts_count="4" name="TODO" desc="1594703">
+		    <part id="188100057"/>
+		    <part id="188100058"/>
+		    <part id="188100059"/>
+		    <part id="188100060"/>
+	</assembly_template>
+	<assembly_template id="19" itemid="188051704" parts_count="2" name="TODO" desc="2191573">
+		    <part id="188100061"/>
+		    <part id="188100062"/>
+	</assembly_template>
+</assembly_templates>

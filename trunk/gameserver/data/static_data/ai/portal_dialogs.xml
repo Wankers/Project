@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ai_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ai.xsd">
+	<ai npcId="730221">
+		<dialogs>
+			<page page="10"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730219">
+		<dialogs>
+			<page page="10"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730268">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730269">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730321">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730424">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730425">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730427">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730428">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730430">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730431">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="799325">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="799503">
+		<dialogs>
+			<page page="1097"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730265">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730266">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730218">
+		<dialogs>
+			<page page="10"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730220">
+		<dialogs>
+			<page page="10"/>
+		</dialogs>
+	</ai>
+	<ai npcId="799022">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="205234">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="205229">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730409">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730462">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="205134">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730461">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="205322">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="205314">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730298">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730299">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730302">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730303">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730300">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730301">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730296">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730297">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730047">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730185">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="700370">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="700414">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730277">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730278">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730279">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730280">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730069">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730186">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730481">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730482">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730483">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="730484">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="207056">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="207057">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="207058">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+	<ai npcId="207059">
+		<dialogs>
+			<page page="1011"/>
+		</dialogs>
+	</ai>
+</ai_templates>
